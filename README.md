@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maximkazz
-- 👀 I’m interested in quality assurance, unclude automatization 
+- 👀 I’m interested in quality assurance, include automatization 
 - 🌱 I’m currently learning automatization
 
 
